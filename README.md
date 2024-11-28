@@ -1,4 +1,4 @@
-I am a newbie to data science and will be attempting to work my way through the Titanic Survival Predicction dataset. Please consider if this is useful to you! :)
+I am a newbie to data science and will be attempting to work my way through the Titanic Survival Prediction dataset. Please consider if this is useful to you! :)
 
 Contents:
 Import Necessary Libraries
